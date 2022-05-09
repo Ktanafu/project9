@@ -1,0 +1,16 @@
+.body{
+
+    background: #456;
+}
+
+.section {
+  background-color: #456;
+  width: 500px;
+  margin: 0 auto;
+  border: 10px dashed #f33;
+  height: 300px;
+  overflow: visible; 
+  overflow: hidden;
+  /* overflow: scroll; */
+}
+
